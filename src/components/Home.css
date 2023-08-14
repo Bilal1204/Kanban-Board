@@ -1,0 +1,22 @@
+
+.Home{
+    display: flex;
+    flex-direction: column;
+}
+
+.component-1 {
+    width: 100vw;
+    height: 3vh;
+    /* position: fixed; */
+      top: 0;
+      left: 0;
+      /* background-color: #f2f2f2; */
+      /* padding: 10px; */
+}
+
+.component-2 {
+    width: 100vw;
+    background-color: rgb(245, 243, 243);
+    /* position: relative; */
+    display: flex;
+}
